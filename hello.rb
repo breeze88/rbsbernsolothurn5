@@ -1,2 +1,0 @@
-puts "alles i.o"
-
